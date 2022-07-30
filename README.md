@@ -26,7 +26,7 @@ Count =  0.1832 + (temp * 0.2544) - (Humidity * 0.1361) - (windspeed * 0.1160) -
 (holiday_Yes * 0.1065) - (weekday_Thurs * 0.0177) - (weekday_Tues * 0.0301) - (weekday_Wed * 0.0329)+ (Weather_Good_Clear * 0.2213) +
 (Weather_Moderate_Misty * 0.1694)
 
-"""# **Final Reuslt(MLR):**
+# **Final Reuslt(MLR):**
 
 * R2 score(test):  0.8437
 
@@ -38,7 +38,7 @@ Count =  0.1832 + (temp * 0.2544) - (Humidity * 0.1361) - (windspeed * 0.1160) -
 
 Its right fit model.
 
-"""#**Final Reuslt(AUTOML):**
+#**Final Reuslt(AUTOML):**
 
 R2 score(test): 0.8974
 
