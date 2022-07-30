@@ -48,7 +48,7 @@ Its  a slighly over fit model.
 
 # **Conclusion:**
 
-As per our final Model, the top 3 predictor variables that influences the bike booking are:
+As per our final Model, the *top 3 predictor variables* that influences the bike booking are:
 
 Temperature (temp) - A coefficient value of ‘0.2544’ indicated that a unit increase in temp variable increases the bike hire numbers by 0.2544 units.
 
@@ -56,4 +56,4 @@ Year - A coefficient value of ‘0.2324’ indicated that a unit increase in yea
 So, it's suggested to consider these variables utmost importance while planning, to achive maximum Booking.
 
 Weather Situation (Good_Clear) - A coefficient value of ‘0.2213’ indicated that, w.r.t Weather, a unit increase in Weather variable increases the bike hire numbers by 0.2213 units.
-"""
+
