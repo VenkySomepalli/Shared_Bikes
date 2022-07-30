@@ -38,10 +38,22 @@ Count =  0.1832 + (temp * 0.2544) - (Humidity * 0.1361) - (windspeed * 0.1160) -
 
 Its right fit model.
 
-#**Final Reuslt(AUTOML):**
+# **Final Reuslt(AUTOML):**
 
 R2 score(test): 0.8974
 
 R2 score(train): 0.9538
 
 Its  a slighly over fit model.
+
+# **Conclusion:**
+
+As per our final Model, the top 3 predictor variables that influences the bike booking are:
+
+Temperature (temp) - A coefficient value of ‘0.2544’ indicated that a unit increase in temp variable increases the bike hire numbers by 0.2544 units.
+
+Year - A coefficient value of ‘0.2324’ indicated that a unit increase in year variable increases the bike hire numbers by 0.2324 units.
+So, it's suggested to consider these variables utmost importance while planning, to achive maximum Booking.
+
+Weather Situation (Good_Clear) - A coefficient value of ‘0.2213’ indicated that, w.r.t Weather, a unit increase in Weather variable increases the bike hire numbers by 0.2213 units.
+"""
