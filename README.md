@@ -29,7 +29,7 @@ Model: Multi linear Regression and AutoML(TPOT)
 
 We construct the Multi Linear Regression model:
 
-Final equation of MLR:
+**Final equation of MLR:**
 
 Count =  0.1832 + (temp * 0.2544) - (Humidity * 0.1361) - (windspeed * 0.1160) - (Season_spring * 0.0954) + (Season_summer * 0.0055) +  (Season_winter * 0.0855) + (Year_2019 * 0.2324) - (Month_Dec * 0.0650) - (Month_Feb * 0.0382) - (Month_Jan * 0.0562) - (Month_July * 0.0469) +
 (Month_May * 0.0324) - (Month_Nov * 0.0665) + (Month_Sept * 0.0629) -
