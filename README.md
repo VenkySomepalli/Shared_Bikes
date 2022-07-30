@@ -13,7 +13,7 @@ EDA : Manuuvally, AutoEDA(Pandas_Profiling)
 
 Model: Multi linear Regression and AutoML(TPOT)
 
-I follow the CRISP(MLQ) Procedure:
+**I follow the CRISP(MLQ) Procedure:**
 
 *1. Business and Data Understanding.
 
